@@ -1,4 +1,4 @@
-module github.com/ubccr/goipa
+module github.com/AlexeyKukin/goipa
 
 go 1.20
 
